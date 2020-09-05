@@ -1,0 +1,23 @@
+body { 
+font-family: Arial;
+line-height: 26px;
+}
+
+.half-width {
+width: 50%;
+float: left;
+}
+
+.side-image {
+width: 50%;
+padding-left: 25%;
+}
+
+<div class="half-width">
+img class="side-image" src="IMG_20200702_163309.jpg"> </img>
+</div>
+ 
+ .container{
+ padding-left: 5%;
+ display: inline-block;
+ }
